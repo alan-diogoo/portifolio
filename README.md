@@ -31,4 +31,4 @@ Se você gostaria de contribuir, fique à vontade para fazer um fork deste repos
 
 - [Email](mailto:alan00753@hotmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alan-diogo/)
-- [Twitter](https://www.instagram.com/alan_diogoo/)
+- [Instagram](https://www.instagram.com/alan_diogoo/)
